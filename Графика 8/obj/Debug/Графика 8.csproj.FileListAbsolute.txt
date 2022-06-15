@@ -1,0 +1,10 @@
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\bin\Debug\Графика 8.exe.config
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\bin\Debug\Графика 8.exe
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\bin\Debug\Графика 8.pdb
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\obj\Debug\Графика 8.csprojAssemblyReference.cache
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\obj\Debug\Графика_8.Form1.resources
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\obj\Debug\Графика_8.Properties.Resources.resources
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\obj\Debug\Графика 8.csproj.GenerateResource.cache
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\obj\Debug\Графика 8.csproj.CoreCompileInputs.cache
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\obj\Debug\Графика 8.exe
+C:\Users\Memesaurus\source\repos\Графика 8\Графика 8\obj\Debug\Графика 8.pdb
